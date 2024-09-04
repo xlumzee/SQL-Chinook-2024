@@ -2,10 +2,12 @@
 
 August Side Project
 
-Pretend the CEO of the company has specifically asked you to answers questions. The CEO may be wondering:
+This case study focuses on analyzing sales, customer behavior, inventory, and geographic data from a digital music store using the Chinook database. The project aims to answer key business questions for a company CEO by leveraging SQL queries to derive insights about music genre popularity, artist trends, customer spending habits, and product inventory.
 
-- what genres of music are most popular?
-- which artist are popular by week, month, year?
-- What can you tell me about the our customers that are spending the most on [genre], [artist], etc?
+### Objectives:
+1. **Sales Analysis**: Identify revenue patterns across albums, genres, and tracks, and analyze top-selling items.
+2. **Customer Behavior**: Determine which customers contribute the most to revenue and understand customer purchasing trends.
+3. **Inventory Analysis**: Examine the store’s music catalog to identify trends in track availability, genre popularity, and album/artist distribution.
+4. **Geographic Analysis**: Explore geographic data to understand which countries or cities generate the most revenue and house the most customers.
 
-- 
+By extracting and analyzing data, the study provides actionable insights to help the company optimize its offerings, better understand its customer base, and make informed decisions for growth and strategic planning.
